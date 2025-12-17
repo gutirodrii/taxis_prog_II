@@ -44,7 +44,7 @@ Básicamente para que Python los reconozca como paquetes. Esto sirve a la hora d
 
 - ¿Por que usamos @staticmethod?
 
-Lo primero de todo. @staticmethod es un decorador que nos permite definir métodos que no necesitan acceder a ningún atributo o método de la clase.
+@staticmethod es un decorador que nos permite definir métodos que no necesitan acceder a ningún atributo o método de la clase.
 
 <img src="./img/staticmethod.png">
 
