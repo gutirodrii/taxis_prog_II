@@ -4,6 +4,8 @@ _Autor: **David Gutiérrez**_
 
 _Profesor: Jorge Raúl Maradiaga Chirinos_
 
+[Enlace al repositorio](https://github.com/gutirodrii/taxis_prog_II.git)
+
 ### Descripción
 
 Análisis de datos de viajes de taxis en NY en enero de 2025.
